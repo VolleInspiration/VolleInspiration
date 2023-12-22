@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @VolleInspiration
-- 👀 I’m interested in game programming using unity, c#, sql and php and something like this
-- 🌱 I’m currently learning unity and 2d pixelart using aseprite, VisualStudio & VisualCode
-- 💞️ I’m looking to collaborate on currently nothing
-- 📫 How to reach me [in progress]
+- 👀 I’m interested in programming backend using c#, sql, php, python and something like this
+- 🌱 I’m currently learning the PHP Framework 'Symfony' using VS Code, Postman on a Raspberry
+- 💞️ I’m looking to collaborate on currently find a new employer
+- 📫 How to reach me:
+- * www.linkedin.com/in/felix-adamietz-a71623114
+  * https://www.xing.com/profile/Felix_Adamietz/web_profiles
+
 
 <!---
 VolleInspiration/VolleInspiration is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
